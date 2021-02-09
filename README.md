@@ -3,6 +3,6 @@ Ddos aracı
 
 ### KULLANIM
 
-´´´
+'''
 EMG
-´´´
+'''
