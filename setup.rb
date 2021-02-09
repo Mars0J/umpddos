@@ -1,4 +1,5 @@
 puts "\033[33mBaşlıyor...."
+sleep(5)
 system("clear")
 system("pip3 install termcolor")
 system("pip3 install colorama")
