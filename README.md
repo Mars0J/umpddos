@@ -1,2 +1,8 @@
 # FireBoxDdos-v2
-DDos aracı
+Ddos aracı
+
+### KULLANIM
+
+´´´
+EMG
+´´´
