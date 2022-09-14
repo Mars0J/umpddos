@@ -5,7 +5,7 @@ from colorama import init
 from alive_progress import alive_bar
 
 def banner():
-    print ("\033[33m Firebox Ddos V2")
+    print ("\033[33m UmpDdos Ddos V2")
     items = range(10000000)
     with alive_bar(len(items)) as bar:
       for item in items:
